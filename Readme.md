@@ -30,3 +30,6 @@ included in every template that needs to create a header file.
 
 We should probably do something different if it doesn't exist like not create the .h.
 Hopefully we can find a better way to avoid the need for it anyway.
+
+NOTES
+* whitespace is sorta hard to control so templating for something like python might be hard.
